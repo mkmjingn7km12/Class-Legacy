@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/:path*",
+      "destination": "https://wayback-machine.mkmjingn7km12-5ee.workers.dev/:path*"
+    }
+  ]
+}
