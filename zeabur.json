@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://wayback-machine.mkmjingn7km12-5ee.workers.dev/$1",
+      "type": "rewrite"
+    }
+  ]
+}
